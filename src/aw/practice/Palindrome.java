@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.Stack;
 
 
-public class palindrome {
+public class Palindrome {
 
 	public static void main(String[] args) {
 		ArrayList<Character> list = new ArrayList<>();
