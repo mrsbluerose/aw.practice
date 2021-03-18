@@ -1,4 +1,4 @@
-package aw.practice;
+package aw.practice.interviews;
 
 public class CompressedString {
 	

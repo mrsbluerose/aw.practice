@@ -1,4 +1,4 @@
-package aw.practice;
+package aw.practice.interviews;
 
 import java.util.ArrayList;
 import java.util.Stack;

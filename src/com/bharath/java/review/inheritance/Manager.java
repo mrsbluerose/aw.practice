@@ -1,4 +1,4 @@
-package com.bharath.inheritance;
+package com.bharath.java.review.inheritance;
 
 public class Manager extends Employee {
 
