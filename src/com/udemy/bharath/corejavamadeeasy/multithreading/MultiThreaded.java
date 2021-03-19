@@ -1,4 +1,4 @@
-package com.bharath.java.review.multithreading;
+package com.udemy.bharath.corejavamadeeasy.multithreading;
 
 public class MultiThreaded extends Thread{ //Thread class implements Runnable, and you have to override the run() method
 	

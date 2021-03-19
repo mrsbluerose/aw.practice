@@ -1,4 +1,4 @@
-package com.bharath.java.review.inheritance;
+package com.udemy.bharath.corejavamadeeasy.inheritance;
 
 public class Developer extends Employee {
 

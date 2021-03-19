@@ -1,4 +1,4 @@
-package com.bharath.java.review.multithreading;
+package com.udemy.bharath.corejavamadeeasy.multithreading;
 
 public class SingleThreaded {
 	
