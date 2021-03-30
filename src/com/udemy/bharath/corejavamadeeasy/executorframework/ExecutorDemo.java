@@ -1,4 +1,4 @@
-package com.bharath.corejavamadeeasy.executorframework;
+package com.udemy.bharath.corejavamadeeasy.executorframework;
 
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
